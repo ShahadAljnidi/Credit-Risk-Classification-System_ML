@@ -143,10 +143,3 @@ Credit-Risk-Classification-System_ML/
 - Save the best model with joblib or pickle
 - Deploy the prediction pipeline as an API or web application
 
-## Author
-
-This project was created for exploratory data analysis and machine learning experimentation on loan approval data.
-
-## Notes
-
-This notebook is intended for educational and analytical use. Some cells include plotting, experimentation, and model comparison tasks and may be adapted depending on the environment and dependencies installed.
