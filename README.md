@@ -98,5 +98,4 @@ jupyter notebook loan_data_analysis_prediction.ipynb
 
 - Outliers were removed before the split, so the reported scores describe cleaned data and may be optimistic for raw applications.
 - The train-test split is not stratified; a stratified split and stratified cross-validation would be safer given the 22% positive class.
-- Add ROC-AUC, per-class precision and recall, and a confusion matrix for the final model.
 - Wrap preprocessing and the model in one scikit-learn pipeline, then save it with `joblib` and serve it through an API.
