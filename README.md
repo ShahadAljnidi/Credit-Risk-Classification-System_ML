@@ -1,9 +1,9 @@
-# Loan Data Analysis & Prediction
+# Credit Risk Classification System
 
 This project explores a loan approval dataset and performs exploratory data analysis (EDA), feature analysis, and predictive modeling to understand which factors influence loan status.
 
 The analysis is implemented in the notebook:
-- `DataAnalyse_1.ipynb`
+- `loan_data_analysis_prediction.ipynb`
 
 ## Project Overview
 
@@ -72,7 +72,7 @@ This project uses:
 Open the notebook in Jupyter or VS Code and run all cells:
 
 ```bash
-jupyter notebook "DataAnalyse_1.ipynb"
+jupyter notebook "loan_data_analysis_prediction.ipynb"
 ```
 
 Or use Jupyter Lab:
@@ -129,8 +129,8 @@ The notebook calculates standard binary classification metrics, including:
 ## Repository Structure
 
 ```text
-data-analysis/
-├── DataAnalyse_1.ipynb
+Credit-Risk-Classification-System_ML/
+├── loan_data_analysis_prediction.ipynb
 ├── loan_data.xlsx
 ├── README.md
 ```
